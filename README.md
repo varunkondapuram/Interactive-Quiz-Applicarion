@@ -1,1 +1,18 @@
-# Interactive-Quiz-Applicarion
+ # Interactive-Quiz-Application
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : VARUN KONDAPURAM
+
+*INTERN ID* : CT04DM1261
+
+*DOMAIN*: FRONT END DEVELOPMENT
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
+
+
+
